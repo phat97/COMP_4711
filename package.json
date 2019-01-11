@@ -1,0 +1,25 @@
+{
+  "name": "comp4711",
+  "version": "1.0.0",
+  "description": "Term 4 CST Web Development Course",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phat97/COMP_4711.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phat97/COMP_4711/issues"
+  },
+  "homepage": "https://github.com/phat97/COMP_4711#readme"
+}
